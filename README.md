@@ -3,12 +3,12 @@
 ## 🧻홈페이지 링크
 http://dbpt10.dothome.co.kr/final/intro.html
 
-###Development tool
+### Development tool
 - DateBase: mysql
 - Languages" Php + html + css + javascript
 - Server: Bitnami
 
-Contents : 
+### Contents : 
 화장실 - 좌식 여부, 남여공용여부 및 구분여부, 장애인화장실, 어린이,영업시간, 등등…
 이 웹사이트는 본인이 위치한 지역을 포함한 국내 다양한 지역의 공중화장실의 여부를 확인할 수 있습니다.
 공중화장실은 공공 시민들이 이용하도록 제공하기 위해 국가, 지방자치단체, 법인 또는 개인이 설치하는 화장실입니다. 공중화장실은 시민의 편의를 위해 설치된 공공시설 이기 때문에 어린이, 장애인을 위한 공간도 필수적으로 마련되어 있어야 합니다.
